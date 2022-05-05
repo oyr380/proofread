@@ -1,0 +1,277 @@
+Proofreading Lecture Slides
+Format
+Lecture #N - Topic Name
+        Slide #
+              "Original"
+              Correction *
+
+              "Original2"
+              Correction2 *
+
+============================================================================
+Lecture #1 - Introduction
+        Slide 9
+              "Does the code has too much dependencies..."
+              Does the code have too many dependencies *
+
+              "Does the code using the cache efficiently?"
+              Deos the code use the cache efficiently? *
+
+        Slide 12
+              "Network devics"
+              Network devices*
+
+        Slide 17
+              "What Dennard Scaling mean"
+              What Dennard Scaling means*
+
+        Slide 20
+              "Layer-ed"
+              Layered*
+
+        Slide 28
+              "von Neumann"
+              Von Neumann*
+
+
+        Slide 29
+              "...due to smaller transistors cannot all run..."
+              ...since smaller transistors cannot all run...*
+
+              or
+              ...due to smaller transistors being unable to run...*
+
+        Slide 39
+              "I cannot proctor the exam as I should be."
+              I cannot proctor the exam as well as I'd like*
+
+              or
+              I cannot proctor the exam sufficiently*
+
+
+        Slide 42
+              "Let me know what do you think..."
+              Let me know what you think...*
+
+============================================================================
+Lecture #2 - ISA
+        Slide 10
+              "A C code for unconditionally jump..."
+              A C code to unconditionally jump...*
+
+              "A C code for conditionally jump..."
+              A C code to conditionally jump...*
+
+        Slide 29
+              "When the memory address of operand..."
+              When the memory address of an operand...*
+
+
+        Slide 31
+              "...stored in an register..."
+              ...stored in a register...*
+
+
+        Slide 34
+              "How hard it is to decode an streams..."
+              How hard it is to decode a stream...*
+
+
+        Slide 40
+              "Does the ISA lead itself..."
+              Does the ISA lend itself...*
+
+        Slide 42
+              "That is, every instruction finished..."
+              That is, every instruction finishes...*
+
+
+        Slide 43
+              "...and have complex register-memory instructions."
+              ...and has complex register-memory instructions.*
+
+
+              "Before mid 80s, programmability is nearly..."
+              Before mid 80s, programmability was nearly...
+
+              "CISC ISAs provides register-memory..."
+              CISC ISAs provide register-memory...
+
+
+              "...partially as programmability becomes..."
+              ...partially as programmability became...
+
+
+        Slide 47
+              "Floating point operations uses stack.."
+              Floating point operations use stack...*
+
+
+        Slide 48
+              "32-bits long instructions"
+              32-bit long instructions*
+
+              "...64-bits architectures..."
+              ...64-bit architectures...
+
+              "A very popular academia teaching ISA"
+              A very popular academic teaching ISA*
+
+              or
+              A very popular academic ISA*
+
+
+        Slide 50
+              "Extensions supports FP..."
+              Extensions support FP...*
+
+
+        Slide 51
+              "Instructions mostly takes..."
+              Instructions mostly take...*
+
+
+        Slide 52
+              "In nowadays..."
+              Nowadays...*
+
+
+        Slide 65
+              "The actually address..."
+              The actual address...*
+
+
+        Slide 81
+              "This requirement leaded to..."
+              This requirement led to...*
+
+
+              "These functional units typically extends the exec stage."
+              These functional units typically extend the exec stage.*
+
+        Slide 82
+              "Later, these multi-media instructions proven to be..."
+              Later, these multi-media instructions proved to be...*
+
+              "The same thing happened to GPU as well."
+              The same thing happened to GPUs as well.*
+
+
+        Slide 85
+              "SSE have been..."
+              SSE has been...*
+
+
+        Slide 88
+              "Let compiler to find..."
+              Let compile find...*
+
+
+        Slide 90
+              "The architecture is call IA-64..."
+              The architecture is called IA-64...*
+
+              "And that's why 64-bit x86 are called..."
+              And that's why 64-bit x86 is called...*
+
+
+        Slide 92
+              "When there are many choices for addressing modes, an when..."
+              When there are many choices for addressing modes, and when...*
+
+              "Chip manufacturers usually provides limited supports..."
+              Chip manufacturers usually provide limited support...*
+
+              or
+              Chip manufacturer usually provides limited support...*
+
+
+        Slide 95
+              "GCC generally do not..."
+              GCC generally does not...*
+
+
+============================================================================
+Lecture #3 - Computer Arithmetic
+
+        Slide 6
+              "it's value is..."
+              its value is...*
+
+
+        Slide 7
+              "it's value is..."
+              its value is...*
+
+
+        Slide 14
+              "...they are represented with bits correspond their..."
+              ...they are represented by bits corresponding to their...*
+
+
+        Slide 18
+              "For example, for -1, we starts with..."
+              For example, for -1, we start with...*
+
+
+        Slide 19
+              "Two's complement encoding makes add every easy."
+              Two's complement encoding makes addition very easy.*
+
+              or
+              Two's complement encoding makes adding very easy.*
+
+
+              "Multiplication and division are slight more difficult than adds and subtractions..."
+              Multiplication and division are slightly more difficult than adding and subtracting...*
+
+
+        Slide 23
+              "In C language, real numbers are simply call floats."
+              In the C language, real numbers are simply called floats.*
+
+
+
+        Slide 28
+              "Specially values..."
+              Special values...*
+
+
+        Slide 31
+              "...logical gates constitute functions units..."
+              ...logical gates constitute functional units...*
+
+
+============================================================================
+Lecture #4 - Performance Metrics and Measurement
+
+        Slide 10
+              "The same idea applies when compute the..."
+              The same idea applies when computing the...*
+
+
+        Slide 13
+              "Can be mis-leading either..."
+              Can be misleading...*
+
+
+
+
+        Slide 33
+              "We still do have..."
+              We still do not have...*
+
+              "...as its memory behavior contradicted common believes."
+              ...as its memory behavior contradicted common beliefs.*
+
+
+        Slide 36 //Not 100% on this one but seems to be one or the other
+              "CMP$Sim cache simulator"
+              CMP$im cache simulator*
+
+              or
+              CMPSim cache simulator*
+
+
+              "...such as power consumptions and..."
+              ...such as power consumption and...*
