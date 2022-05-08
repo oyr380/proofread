@@ -1,9 +1,3 @@
-CS3853-001 Extra Credit Opportunity
-Proofreading Lecture Slides
-
-Patrick Jenkins
-abc123: oyr380
-
 Format
 Lecture #N - Topic Name
         Slide #
