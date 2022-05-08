@@ -365,23 +365,101 @@ Lecture #9 - Cache Designs
               Cache line size = 64 bytes*
 
         Slide 15
-              "Second data accessed locate at..."
-              Second data accessed located at...*
-
               "Note that, the cache still have empty slots..."
               Note that the cache still has empty slots...*
 
-        Slide 16
-              "3rd data accessed locate at..."
-              3rd data accessed located at...*
-
         Slide 17
-              "4th data accessed locate at..."
-              4th data accessed located at...*
-
               "Third eviction while the cache has empty slots. Acctually, the main problem with Direct Mapped Cache is that it may experiences high cache misses despite the cache still have many empty slots."
               Third eviction while the cache has empty slots. Actually, the main problem with Direct Mapped Cache is that it may experience high cache misses despite the cache still having many slots.*
 
         Slide 18
               "Slot 1 does not has valid data..."
               Slot 1 does not have valid data...*
+
+        Slide 19
+              "Slot 2 does not has valid data..."
+              Slot 2 does not have valid data...*
+
+        Slide 20
+              "Slot 3 does not has valid data..."
+              Slot 3 does not have valid data...*
+
+
+        Slide 21
+              "Easy computation also simplify the hardware implementation."
+              Easy computation also simplifies the hardware implementation.*
+
+        Slide 35
+              "A cache is partition into sets..."
+              A cache is partitioned into sets...*
+
+        Slide 38
+              "The set index of a memory address is used to identify the set that may storing..."
+              The set index of a memory address is used to identify the set that may store...*
+
+        Slide 39
+              "Cache line ize..."
+              Cache line size...*
+
+
+        Slide 48
+              "...similar as fully associative cache."
+              ...similar to fully associative cache.*
+
+
+              "No much of a con..."
+              Not much of a con...*
+
+
+        Slide 49
+              "...there is no one number works..."
+              ...no one number works...*
+
+              "...the averagely best number..."
+              ...the average best number...*
+
+
+        Slide 54
+              "...hit latency does not deteriorates that fast now."
+              ...hit latency does not deteriorate that fast now.*
+
+
+
+        Slide 60
+              "...while do not increase cache latency..."
+              ...while not increasing cache latency...*
+
+        Slide 67
+              "Processors may need to stalls..."
+              Processors may need to stall...*
+
+        Slide 70
+              "Th memory..."
+              The memory...*
+
+============================================================================
+Lecture #10 - GPGPU Computing and SIMD
+
+        Slide 12
+              "Tensor cores were added to speedup deep learning."
+              Tensor cores were added to speed up deep learning.*
+
+        Slide 23
+              "Motived by GPGPU workloads"
+              Motivated by GPGPU workloads*
+
+
+        Slide 24
+              "Today local memory is mostly a concept than a real storage"
+
+              Not 100% on this one
+              Today local memory is more a concept than actual storage*
+
+        Slide 28
+              "...GPU may still optimized texture-like..."
+              ...GPU may still optimize texture-like...*
+
+
+        Slide 39
+              "Some Fire Pro and Radeon Pro cards also supports VGPU."
+              Some Fire Pro and Radeon Pro cards also support VGPU.*
